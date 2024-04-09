@@ -71,8 +71,9 @@ The application will be accessible at `http://localhost:3000` for the React fron
 
 - [React](https://reactjs.org/) - The JavaScript library for building user interfaces.
 - [Django](https://www.djangoproject.com/) - The high-level Python Web framework that encourages rapid development and clean, pragmatic design.
-- [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.
-- [Reactstrap](https://reactstrap.github.io/) - Simple React Bootstrap 4 components.
+- [Tailwind](https://tailwindcss.com/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.
+- [SkeltonUI](https://mui.com/) - Simple React material ui components.
+- [Threejs](https://threejs.org/) - Three.js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL. 
 
 ## Contributing
 
