@@ -18,26 +18,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Create a project directory and navigate into it:
 
-# Online Management System with React and Django
-
-This project is an online management system built using React for the frontend and Django for the backend. It demonstrates how to create a full-stack web application with a modern frontend and a robust backend.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Node.js and npm (for React)
-- Python and pip (for Django)
-- Pipenv (for managing Python dependencies)
-
-### Installing
-
-#### Backend Setup
-
-1. Create a project directory and navigate into it:
-
 
 2. Install Pipenv and create a virtual environment:
 
