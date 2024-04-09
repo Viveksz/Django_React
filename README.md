@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. Install Django and start the project:
 
 
-4. Run the Django server:
+4. Run the Django server: `python manage.py runserver`
 
 
 
@@ -34,10 +34,10 @@ These instructions will get you a copy of the project up and running on your loc
 1. Navigate back to the project root directory and create the React app:
 
 
-2. Install Bootstrap and Reactstrap for styling:
+2. Install Tailwind and SkeltonUi for styling:
 
 
-3. Start the React development server:
+3. Start the React development server: `npm start`
 
 
 ## Running the Application
